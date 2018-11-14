@@ -215,7 +215,7 @@ ClientBin/
 *.dbmdl
 *.dbproj.schemaview
 *.jfm
-*.pfx
+# *.pfx # app domain 
 *.publishsettings
 orleans.codegen.cs
 
